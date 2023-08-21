@@ -7,3 +7,4 @@ Multiple floating button in compose
 
 <img src="https://github.com/khambhaytajaydip/MultipleFloatingActionButton/assets/17040639/659dc0bc-95cc-46dc-a582-cab77963378f" width=40% height=40%>
 
+please follow the link : https://medium.com/@khambhaytajaydip/jetpack-compose-multiple-floatingactionbutton-2fe26f19404e
